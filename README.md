@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Francisco</h1>
-- 📫 How to reach me **fpedrazav02@gmail.com**
+- ⚙️ Security Arquitect in the making
+- 📫 Contact me at **fpedrazav02@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -11,4 +12,3 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=fpedrazav02&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fpedrazav02&hide=TeX&layout=compact)
-[![MasterHead]((https://github.com/fpedrazav02/fpedrazav02/blob/main/header.png)https://github.com/fpedrazav02/fpedrazav02/blob/main/header.png)((https://github.com/fpedrazav02)https://github.com/fpedrazav02)
