@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Francisco</h1>
 - ⚙️ Security Arquitect in the making </br>
-- 📫 Contact me at **fpedrazav02@gmail.com**
+- 📫 Contact me at **fpedrazav02@gmail.com** </br>
 ![Snake animation](https://github.com/fpedrazav02/fpedrazav02/blob/main/github-contribution-grid-snake.svg)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
