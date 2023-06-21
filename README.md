@@ -11,3 +11,4 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=fpedrazav02&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fpedrazav02&hide=TeX&layout=compact)
+[![MasterHead](your image link)](your GitHub link)
